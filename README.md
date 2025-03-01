@@ -2,13 +2,18 @@
 
 **`Suporte N3 Pleno -  Desenvolvedor FullStack[Trabalhando nisso]`**
 
-Olá, sou Diego Araujo do Carmo, tenho 28 anos, sou formado em Ciência da Computação pela Uninove e sou natural de Diadema, São Paulo. Com 9 anos de experiência na área de suporte, estou atualmente me especializando como desenvolvedor web, com foco em tecnologias como HTML, CSS, JavaScript, Oracle e Python.
+Meu nome é Diego Araujo do Carmo, tenho 28 anos e sou formado em Ciência da Computação pela Uninove. Sou de Diadema, São Paulo, e possuo 9 anos de experiência na área de suporte. Atualmente, estou me especializando como desenvolvedor web.
 
-Apesar da minha formação, continuo investindo em cursos e atualizações para manter meu currículo sempre em dia e acompanhar as novidades do mercado. Trabalho com a metodologia ágil, especificamente como Scrum Master, e acredito na importância de uma boa comunicação e trabalho em equipe para o sucesso dos projetos.
+💻 Tecnologias e conhecimentos:
 
-Neste GitHub, você encontrará alguns dos meus projetos e estudos, que são uma forma de mostrar como sou apaixonado pela programação e pelo meu processo de aprendizado contínuo. Além disso, tenho um conhecimento avançado em Excel e já trabalhei com ferramentas como Dynamics, Salesforce e GLPI.
+HTML, CSS, JavaScript, Oracle, Python
+Metodologia ágil Scrum
+Conhecimento avançado em Excel
+Experiência com Dynamics, Salesforce e GLPI
+📚 Apesar da minha formação, sigo constantemente investindo em novos cursos e aprendizados para aprimorar minhas habilidades e me manter atualizado no mercado. Tenho facilidade para trabalhar em equipe, uma comunicação clara e estou sempre aberto a novos desafios e projetos.
 
-Estou sempre em busca de novos desafios e pronto para aceitar novos projetos e oportunidades de colaboração!
+🚀 O que você encontrará aqui?
+Neste GitHub, compartilho alguns dos meus projetos e estudos, demonstrando meu estilo de programação e evolução contínua.
 
 <div align="left">
   <a href="https://www.youtube.com/@SonecaDC" target="_blank" rel="noopener noreferrer">
@@ -157,6 +162,7 @@ Estou sempre em busca de novos desafios e pronto para aceitar novos projetos e o
     src="https://github-readme-stats.vercel.app/api?username=AraujoDC2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
+<!--
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -165,3 +171,4 @@ Estou sempre em busca de novos desafios e pronto para aceitar novos projetos e o
   />
 
 </p>
+-->
