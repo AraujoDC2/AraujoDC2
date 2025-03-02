@@ -162,7 +162,7 @@ Neste GitHub, compartilho alguns dos meus projetos e estudos, demonstrando meu e
     src="https://github-readme-stats.vercel.app/api?username=AraujoDC2&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
-<!--
+
 <img 
       align="left" 
       alt="GitHub Stats" 
@@ -171,4 +171,4 @@ Neste GitHub, compartilho alguns dos meus projetos e estudos, demonstrando meu e
   />
 
 </p>
--->
+
